@@ -31,21 +31,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919895802105'] //ur owner number
-global.ownername = "AMRUSER" //ur owner name
-global.ytname = "YT: DRON" //ur yt chanel name
-global.socialm = "GitHub: AMRUSIR" //ur github or insta name
-global.location = "India, Kerala, Kottayam" //ur location
+global.vcardowner = ['919495029709'] //ur owner number
+global.ownername = "💖𝙰𝙱𝙷𝙸𝙽𝙰𝚅_𝚂𝙴𝚁💗" //ur owner name
+global.ytname = "YT: 𝚗𝚘 𝚢𝚝 𝚎𝚗𝚗𝚊 𝚜𝚊𝚍 𝚊𝚔𝚔𝚒🥲" //ur yt chanel name
+global.socialm = "GitHub: 𝙼𝚛_𝙰𝚋𝚑𝚒0_0" //ur github or insta name
+global.location = "India, Kerala,  thrissur" //ur location
 
 //bot bomdy 
-global.owner = ['919895802105']
-global.ownertag = '919895802105' //ur tag number
-global.botname = 'AMRU-SER-MD' //ur bot name
+global.owner = ['18735022246']
+global.ownertag = '18735022246' //ur tag number
+global.botname = 'delfia' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
-global.websitex = "" //ur website to be displayed
+global.websitex = "https://abhinav-321.github.io/web_page/" //ur website to be displayed
 global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
 global.reactmoji = "🙂" //ur menu react emoji
-global.themeemoji = "😈" //ur theme emoji
+//💗💗💗global.tme emoji
 global.packname = "AMRU-SER" //ur sticker watermark packname
 global.author = "AMRU-SER-MD" //ur sticker watermark author
 
